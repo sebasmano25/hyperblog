@@ -2,4 +2,4 @@ Primer proyecto
 
 Para elaboración de pruebas con GitHub
 
-Esta carrera será enfocada en Data Science
+Este proceso será enfocada en Data Science y Machine Learning
