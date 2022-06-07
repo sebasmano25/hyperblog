@@ -5,3 +5,5 @@ Para elaboración de pruebas con GitHub
 Este proceso será enfocada en Data Science y Machine Learning
 
 Los lenguajes que quiero aprender son: Python, SQL
+
+Actualmente me dedico a redes, me quiero hacer un pivot
