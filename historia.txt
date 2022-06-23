@@ -18,4 +18,6 @@ Master 2
 
 Adding new experiment with stash
 
+Tecnologies that i want to learn, Tableau, Matplotlib, Numpy 
+
 The examan that I want to take is TOELF
